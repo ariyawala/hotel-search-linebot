@@ -1,24 +1,16 @@
-# README
+# **Hotel Search Linebot**
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+楽天トラベルキーワード検索 API を使った宿泊検索 LINE Bot
+Ruby on Rails, AIP, LINE Bot 学習用
 
-Things you may want to cover:
+### **使用技術**
 
-* Ruby version
+- Ruby 2.7.2
 
-* System dependencies
+- Ruby on Rails 6.0.3.4
 
-* Configuration
+- SQLite, postgreSQL
 
-* Database creation
+- GitHub
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Heroku
